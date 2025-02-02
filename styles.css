@@ -15,7 +15,7 @@ body {
   
   h1 {
     font-size: 2.5em;
-    color: #EBECEE;
+    color: #ffffff;
   }
   
   .buttons {
@@ -26,8 +26,8 @@ body {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #4caf50;
-    color: white;
+    background-color: #A4ECA4;
+    color: #ffffff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -36,8 +36,8 @@ body {
   .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #f44336;
-    color: white;
+    background-color: #ECA4A4;
+    color: #ffffff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
